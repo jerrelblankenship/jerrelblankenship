@@ -26,8 +26,8 @@ Full Stack Engineer and Leader with over 15+ years of experience in developing a
 
 <h2>GitHub Stats</h2>
 <p align="center">
- <img align="center" height=300 src="https://github-readme-stats.vercel.app/api?username=jerrelblankenship&show_icons=true&theme=transparent&hide_border=true" alt="jerrelblankenship" />
- <img align="center" height=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=jerrelblankenship&show_icons=true&theme=transparent&hide_border=true&layout=compact" alt="jerrelblankenship" />
+ <img align="center" height=300 src="https://github-readme-stats-sandy-ten-31.vercel.app/api?username=jerrelblankenship&show_icons=true&theme=transparent&hide_border=true" alt="jerrelblankenship" />
+ <img align="center" height=300 src="https://github-readme-stats-sandy-ten-31.vercel.app/api/top-langs?username=jerrelblankenship&show_icons=true&theme=transparent&hide_border=true&layout=compact" alt="jerrelblankenship" />
 </p>
  
  
